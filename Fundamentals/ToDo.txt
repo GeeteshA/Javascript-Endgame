@@ -1,0 +1,12 @@
+1. JavaScript Fundamentals
+
+Variables and Data Types: var, let, const, primitive vs. reference types, type coercion----DONE
+Operators: Arithmetic, logical, comparison, ternary operator, and bitwise operators-----DONE
+Control Flow: if, else, switch, for, while, do-while, break, continue-----DONE
+Functions: Function declarations, expressions, arrow functions, IIFE (Immediately Invoked Function Expressions)----DONE
+Scopes: Global scope, function scope, block scope, lexical scoping-----DONE
+Closures: What they are, practical examples, how closures can lead to memory leaks----DONE
+Hoisting: Variable and function hoisting, how var, let, const, and functions are hoisted-----DONE
+This Keyword: Context of this, arrow functions vs regular functions, binding this------DONE
+Event Handling: Event listeners, addEventListener(), event delegation, bubbling, capturing------DONE
+Error Handling: try, catch, finally, custom errors, throwing errors -----DONE
