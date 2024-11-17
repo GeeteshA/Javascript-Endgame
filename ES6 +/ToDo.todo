@@ -1,0 +1,11 @@
+ES6+ Features
+
+Let and Const: Differences between var, let, and const
+Arrow Functions: Syntax and differences with traditional function expressions
+Template Literals: String interpolation, multi-line strings
+Default Parameters: Default values in function arguments
+Object Literals: Shorthand for methods and properties in objects
+Set and Map: Differences between arrays/objects and Set/Map, use cases
+Promises: Promise.all(), Promise.race(), finally()
+Array Methods: map(), filter(), reduce(), some(), every(), find(), forEach()
+Classes: ES6 class syntax, constructor, inheritance, super, static methods
